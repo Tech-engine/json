@@ -13,9 +13,9 @@ def save_json(path, data):
 for ele in data:
     set_file.add(ele['department'])
     if sectionJSON.has_key(ele['department']):
-        sectionJSON[ele['department']].append('{"children":[{"amount2016": "'+ele['amount2016']+'","amount2017": "'+ele['amount2017']+'","name": "'+ele['spend_type']+'"}]}')
+        sectionJSON[ele['department']].append('{"name":"'+ele['spend_type']+'","children":[{"amount2016": "'+ele['amount2016']+'","amount2017": "'+ele['amount2017']+'","pct_change":"'+repr(ele['pct_change'])+'"}]}')
     else:
-        sectionJSON[ele['department']] = ['{"children":[{"amount2016": "' + ele['amount2016'] + '","amount2017": "' + ele['amount2017'] + '","name": "' + ele['spend_type'] + '"}]}']
+        sectionJSON[ele['department']] = ['{"name":"'+ele['spend_type']+'","children":[{"amount2016": "'+ele['amount2016']+'","amount2017": "'+ele['amount2017']+'","pct_change":"'+repr(ele['pct_change'])+'"}]}']
 
 for department in set_file:
     str = str+'{"name":"'+department+'","children":['+ ','.join(sectionJSON[department])+']},'
@@ -24,3 +24,4 @@ str = str[:-1]
 str = str+']}'
 dat = json.loads(str)
 save_json('t.json',json.dumps(dat))
+
