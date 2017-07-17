@@ -2,7 +2,7 @@
       "name": "department",
       "children": [
         {
-          "name": "General Administration",
+          
           "children": [
                 {
                   "amount2017": 40000,
@@ -14,10 +14,12 @@
                   "amount2016": 400000.0,
                   "name": "Clerk of Council"
                 }
-          ]
+          ],
+              "name": "General Administration",
+              "desc":""
         },
         {
-          "name": "Leisure Services",
+          
           "children": [
             {
                   "amount2017": 400000.0,
@@ -29,10 +31,12 @@
                   "amount2016": 400000.0,
                   "name": "Cultural Affairs"
                 }
-          ]
+          ],
+              "name": "Leisure Services",
+              "desc":""
         },
         {
-          "name": "Police Bureau",
+     
           "children": [
             {
                   "amount2017": 400000.0,
@@ -44,10 +48,12 @@
                   "amount2016": 400000.0,
                   "name": "Patrol and Special Operations Division"
                 }
-          ]
+          ],
+              "name": "Police Bureau",
+              "desc":""
         },
         {
-          "name": "Fire and Emergency Services Bureau",
+          
           "children": [
                 {
                   "amount2017": 400000.0,
@@ -59,10 +65,12 @@
                   "amount2016": 400000.0,
                   "name": "City-Wide Emergency Planning"
                 }
-          ]
+          ],
+            "name": "Fire and Emergency Services Bureau",
+              "desc":""
         },
         {
-          "name": "ACM, Administrative and Community Services",
+          
           "children": [
                 {
                   
@@ -70,10 +78,12 @@
                   "amount2016": 400000.0,
                   "name": "ACM, Administrative and Community Services"
                 }
-          ]
+          ],
+              "name": "ACM, Administrative and Community Services",
+              "desc":""
         },
         {
-          "name": "Management Services Bureau",
+          
           "children": [
             {
                   
@@ -87,10 +97,12 @@
                   "amount2016": 400000.0,
                   "name": "Research and Budget"
                 }
-          ]
+          ],
+              "name": "Management Services Bureau",
+              "desc":""
         },
         {
-          "name": "Community and Economic Development Bureau",
+          
           "children": [
             {
                   
@@ -104,10 +116,12 @@
                   "amount2016": 400000.0,
                   "name": "Community Services"
                 }
-          ]
+          ],
+              "name": "Community and Economic Development Bureau",
+              "desc":""
         },
         {
-          "name": "ACM, Development and Environmental Services",
+          
           "children": [
             {
                   
@@ -115,10 +129,12 @@
                   "amount2016": 400000.0,
                   "name": "ACM, Development and Environmental Services"
                 }
-          ]
+          ],
+              "name": "ACM, Development and Environmental Services",
+              "desc":""
         },
         {
-          "name": "Public Works and Water Resources Bureau",
+          
           "children": [
             {
                   
@@ -132,10 +148,12 @@
                   "amount2016": 400000.0,
                   "name": "Traffic Engineering"
                 }
-          ]
+          ],
+              "name": "Public Works and Water Resources Bureau",
+              "desc":""
         },
         {
-          "name": "Sanitation Bureau",
+          
           "children": [
             {
                   
@@ -149,10 +167,12 @@
                   "amount2016": 400000.0,
                   "name": "Residential Refuse"
                 }
-          ]
+          ],
+              "name": "Sanitation Bureau",
+              "desc":""
         },
         {
-          "name": "General Fund Interdepartmental",
+          
           "children": [
             {
                   
@@ -166,10 +186,12 @@
                   "amount2016": 400000.0,
                   "name": "Planning and Development"
                 }
-          ]
+          ],
+            "name": "General Fund Interdepartmental",
+              "desc":""
         },
         {
-          "name": "Other Expenditures",
+          
           "children": [
             {
                   
@@ -183,7 +205,9 @@
                   "amount2016": 400000.0,
                   "name": "Community Development Program Costs/Carryforward"
                 }
-          ]
+          ],
+              "name": "Other Expenditures",
+              "desc":""
         }
       ]
 }
