@@ -5,9 +5,6 @@
           "name": "General Administration",
           "children": [
             {
-              "name": "spend_type",
-              "children": [
-                {
                   "name": "Mayor and Aldermen",
                   "amount2017": 40000,
                   "amount2016": 4343
@@ -17,17 +14,12 @@
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
                 }
-              ]
-            }
           ]
         },
         {
           "name": "Leisure Services",
           "children": [
             {
-              "name": "spend_type",
-              "children": [
-                {
                   "name": "Leisure Services Bureau Chief",
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
@@ -37,17 +29,12 @@
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
                 }
-              ]
-            }
           ]
         },
         {
           "name": "Police Bureau",
           "children": [
             {
-              "name": "spend_type",
-              "children": [
-                {
                   "name": "Police Chief",
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
@@ -57,17 +44,12 @@
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
                 }
-              ]
-            }
           ]
         },
         {
           "name": "Fire and Emergency Services Bureau",
           "children": [
-            {
-              "name": "spend_type",
-              "children": [
-                {
+             {
                   "name": "Fire Logistics",
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
@@ -77,32 +59,22 @@
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
                 }
-              ]
-            }
           ]
         },
         {
           "name": "ACM, Administrative and Community Services",
           "children": [
             {
-              "name": "spend_type",
-              "children": [
-                {
                   "name": "ACM, Administrative and Community Services",
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
                 }
-              ]
-            }
           ]
         },
         {
           "name": "Management Services Bureau",
           "children": [
             {
-              "name": "spend_type",
-              "children": [
-                {
                   "name": "Chief",
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
@@ -112,17 +84,12 @@
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
                 }
-              ]
-            }
           ]
         },
         {
           "name": "Community and Economic Development Bureau",
           "children": [
             {
-              "name": "spend_type",
-              "children": [
-                {
                   "name": "Community and Economic Development Bureau Chief",
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
@@ -132,32 +99,22 @@
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
                 }
-              ]
-            }
           ]
         },
         {
           "name": "ACM, Development and Environmental Services",
           "children": [
             {
-              "name": "spend_type",
-              "children": [
-                {
                   "name": "ACM, Development and Environmental Services",
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
                 }
-              ]
-            }
           ]
         },
         {
           "name": "Public Works and Water Resources Bureau",
           "children": [
             {
-              "name": "spend_type",
-              "children": [
-                {
                   "name": "Public Works and Water Resources Bureau Chief",
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
@@ -167,17 +124,12 @@
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
                 }
-              ]
-            }
           ]
         },
         {
           "name": "Sanitation Bureau",
           "children": [
             {
-              "name": "spend_type",
-              "children": [
-                {
                   "name": "Sanitation Bureau Chief",
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
@@ -187,17 +139,12 @@
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
                 }
-              ]
-            }
           ]
         },
         {
           "name": "General Fund Interdepartmental",
           "children": [
             {
-              "name": "spend_type",
-              "children": [
-                {
                   "name": "Tourism and Promotion",
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
@@ -207,17 +154,12 @@
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
                 }
-              ]
-            }
           ]
         },
         {
           "name": "Other Expenditures",
           "children": [
             {
-              "name": "spend_type",
-              "children": [
-                {
                   "name": "Grant Fund",
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
@@ -227,8 +169,6 @@
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
                 }
-              ]
-            }
           ]
         }
       ]
