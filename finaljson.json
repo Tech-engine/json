@@ -21,35 +21,6 @@
                   "amount2016": "361,324",
                   "amount2015": "276,889",
                   "pct_change": -23.36822353
-                },
-                {
-                  "name": "Office of City Manager",
-                  "amount2016": "1,209,969",
-                  "amount2017": "1,606,710",
-                  "pct_change": 32.78935245
-                },
-                {
-                  "name": "Public Information Office",
-                  "amount2016": "513,786",
-                  "amount2017": "503,195",
-                  "pct_change": -2.06136407
-                },
-                {
-                  "name": "Auditing",
-                  "amount2016": "631,992",
-                  "amount2017": "531,651",
-                  "pct_change": -15.87694148
-                },
-                {
-                  "name": "Finance",
-                  "amount2016": "1,164,940",
-                  "amount2017": "1,145,036",
-                  "pct_change": -1.70858585
-                }{
-                  "name": "Legal",
-                  "amount2016": "795,954",
-                  "amount2017": "1,006,830",
-                  "pct_change": 26.49349083
                 }
               ]
             }
@@ -72,72 +43,6 @@
                   "amount2016": "750,757",
                   "amount2017": "771,283",
                   "pct_change": 2.734040442
-                },
-                {
-                  "name": "Youth Services",
-                  "amount2016": "4,041,536",
-                  "amount2017": "4,249,808",
-                  "pct_change": 5.153288255
-                },
-                {
-                  "name": "Athletic Services",
-                  "amount2016": "1,124,347",
-                  "amount2017": "1,214,985",
-                  "pct_change": 8.0613903
-                },
-                {
-                  "name": "Senior Services",
-                  "amount2016": "2,116,292",
-                  "amount2017": "2,186,295",
-                  "pct_change": 3.307813856
-                },
-                {
-                  "name": "Therapeutic Recreation",
-                  "amount2016": "248,546",
-                  "amount2017": "256,972",
-                  "pct_change": 3.39011692
-                },
-                {
-                  "name": "Film Services",
-                  "amount2016": "206,213",
-                  "amount2017": "0",
-                  "pct_change": -100
-                },
-                {
-                  "name": "Building and Grounds Maintenance",
-                  "amount2016": "4,107,713",
-                  "amount2017": "4,429,044",
-                  "pct_change": 7.822625388
-                },
-                {
-                  "name": "Building and Electrical Maintenance",
-                  "amount2016": "1,597,595",
-                  "amount2017": "1,542,338",
-                  "pct_change": -3.458761451
-                },
-                {
-                  "name": "Park and Tree",
-                  "amount2016": "5,574,571",
-                  "amount2017": "6,472,332",
-                  "pct_change": 16.10457558
-                },
-                {
-                  "name": "City Cemeteries",
-                  "amount2016": "1,817,879",
-                  "amount2017": "1,802,576",
-                  "pct_change": -0.841805203
-                },
-                {
-                  "name": "Civic Center Operations",
-                  "amount2016": "3,264,480",
-                  "amount2017": "3,229,143",
-                  "pct_change": -1.08246949
-                },
-                {
-                  "name": "Civic Center Concessions",
-                  "amount2016": "379,655",
-                  "amount2017": "370,547",
-                  "pct_change": -2.399020163
                 }
               ]
             }
@@ -160,108 +65,6 @@
                   "amount2016": "39,535,291",
                   "amount2017": "39,585,734",
                   "pct_change": 0.127589803
-                },
-                {
-                  "name": "Investigations Division",
-                  "amount2016": "7,576,113",
-                  "amount2017": "7,735,201",
-                  "pct_change": 2.099863083
-                },
-                {
-                  "name": "SARIC (Savannah Area Regional Intelligence Center)",
-                  "amount2016": "1,345,692",
-                  "amount2017": "1,432,447",
-                  "pct_change": 6.446868972
-                },
-                {
-                  "name": "Traffic Unit",
-                  "amount2016": "1,969,301",
-                  "amount2017": "1,901,266",
-                  "pct_change": -3.454779132
-                },
-                {
-                  "name": "Marine Patrol",
-                  "amount2016": "716,640",
-                  "amount2017": "0",
-                  "pct_change": -100
-                },
-                {
-                  "name": "Mounted Patrol",
-                  "amount2016": "646,587",
-                  "amount2017": "599,898",
-                  "pct_change": -7.220838031
-                },
-                {
-                  "name": "Canine Unit",
-                  "amount2016": "575,966",
-                  "amount2017": "572,895",
-                  "pct_change": -0.533191195
-                },
-                {
-                  "name": "Animal Control",
-                  "amount2016": "928,035",
-                  "amount2017": "0",
-                  "pct_change": -100
-                },
-                {
-                  "name": "Administrative Services Division",
-                  "amount2016": "2,593,783",
-                  "amount2017": "2,786,753",
-                  "pct_change": 7.439712574
-                },
-                {
-                  "name": "Information Management",
-                  "amount2016": "1,515,169",
-                  "amount2017": "1,471,425",
-                  "pct_change": -2.887070683
-                },
-                {
-                  "name": "Training and Recruitment",
-                  "amount2016": "1,368,943",
-                  "amount2017": "1,683,355",
-                  "pct_change": 22.9675012
-                },
-                {
-                  "name": "Counter Narcotics Team (CNT)",
-                  "amount2016": "2,227,376",
-                  "amount2017": "2,374,683",
-                  "pct_change": 6.613477024
-                },
-                {
-                  "name": "Office of Professional Standards (OPS)",
-                  "amount2016": "883,139",
-                  "amount2017": "809,420",
-                  "pct_change": -8.347383594
-                },
-                {
-                  "name": "Savannah Impact Program (SIP)",
-                  "amount2016": "1,272,659",
-                  "amount2017": "1,293,674",
-                  "pct_change": 1.65126715
-                },
-                {
-                  "name": "CrimeStoppers",
-                  "amount2016": "233,281",
-                  "amount2017": "203,962",
-                  "pct_change": -12.56810456
-                },
-                {
-                  "name": "Savannah Impact Work Ventures",
-                  "amount2016": "308,890",
-                  "amount2017": "367,250",
-                  "pct_change": 18.89345722
-                },
-                {
-                  "name": "Undercover Narcotic Investigation Team (U,N,I,T)",
-                  "amount2016": "844,562",
-                  "amount2017": "1,132,413",
-                  "pct_change": 34.08287373
-                },
-                {
-                  "name": "Communications Center",
-                  "amount2016": "6,903,098",
-                  "amount2017": "6,742,419",
-                  "pct_change": -2.327636085
                 }
               ]
             }
@@ -284,18 +87,6 @@
                   "amount2016": "188,012",
                   "amount2017": "178,326",
                   "pct_change": -5.151798821
-                },
-                {
-                  "name": "Fire Operations",
-                  "amount2016": "21,489,179",
-                  "amount2017": "21,934,937",
-                  "pct_change": 2.074337042
-                },
-                {
-                  "name": "Hazardous Material Team",
-                  "amount2016": "545,142",
-                  "amount2017": "573,985",
-                  "pct_change": 5.290915028
                 }
               ]
             }
@@ -334,96 +125,6 @@
                   "amount2016": "679,161",
                   "amount2017": "681,572",
                   "pct_change": 0.354996827
-                },
-                {
-                  "name": "Human Resources",
-                  "amount2016": "1,814,202",
-                  "amount2017": "1,790,682",
-                  "pct_change": -1.296437773
-                },
-                {
-                  "name": "Risk Management",
-                  "amount2016": "838,273",
-                  "amount2017": "834,494",
-                  "pct_change": -0.450807792
-                },
-                {
-                  "name": "Purchasing",
-                  "amount2016": "477,413",
-                  "amount2017": "466,464",
-                  "pct_change": -2.293402149
-                },
-                {
-                  "name": "Revenue",
-                  "amount2016": "1,596,845",
-                  "amount2017": "1,498,402",
-                  "pct_change": -6.164843801
-                },
-                {
-                  "name": "Recorder's Court of Chatham County",
-                  "amount2016": "2,393,428",
-                  "amount2017": "2,311,847",
-                  "pct_change": -3.408542058
-                },
-                {
-                  "name": "Research Library and Municipal Archives",
-                  "amount2016": "234,103",
-                  "amount2017": "239,508",
-                  "pct_change": 2.308812788
-                },
-                {
-                  "name": "Inventory Management",
-                  "amount2016": "352,505",
-                  "amount2017": "344,709",
-                  "pct_change": -2.211599835
-                },
-                {
-                  "name": "Mail and Municipal Building Services",
-                  "amount2016": "782,042",
-                  "amount2017": "808,764",
-                  "pct_change": 3.416952031
-                },
-                {
-                  "name": "Utility Services",
-                  "amount2016": "1,849,064",
-                  "amount2017": "2,206,005",
-                  "pct_change": 19.30387483
-                },
-                {
-                  "name": "Mobility and Parking Administration & Enforcement",
-                  "amount2016": "3,709,500",
-                  "amount2017": "3,584,045",
-                  "pct_change": -3.381992182
-                },
-                {
-                  "name": "Parking Garages and Lots",
-                  "amount2016": "5,070,087",
-                  "amount2017": "6,154,380",
-                  "pct_change": 21.38608272
-                },
-                {
-                  "name": "Parking Interdepartmental",
-                  "amount2016": "3,243,843",
-                  "amount2017": "2,388,867",
-                  "pct_change": -26.35688595
-                },
-                {
-                  "name": "Tourism Management and Ambassadorship Program",
-                  "amount2016": "1,299,792",
-                  "amount2017": "1,516,273",
-                  "pct_change": 16.65504942
-                },
-                {
-                  "name": "Vehicle Maintenance",
-                  "amount2016": "5,616,046",
-                  "amount2017": "5,614,534",
-                  "pct_change": -0.026922856
-                },
-                {
-                  "name": "Information Technology",
-                  "amount2016": "6,563,426",
-                  "amount2017": "6,699,876",
-                  "pct_change": 2.078944746
                 }
               ]
             }
@@ -446,84 +147,6 @@
                   "amount2016": "345,826",
                   "amount2017": "580,244",
                   "pct_change": 67.78495544
-                },
-                {
-                  "name": "Citizen Office",
-                  "amount2016": "1,382545",
-                  "amount2017": "0",
-                  "pct_change": -100
-                },
-                {
-                  "name": "River Street Hospitality Center",
-                  "amount2016": "142,499",
-                  "amount2017": "131,558",
-                  "pct_change": -7.677948617
-                },
-                {
-                  "name": "311 Call Service Center",
-                  "amount2016": "207,686",
-                  "amount2017": "207,112",
-                  "pct_change": -0.276378764
-                },
-                {
-                  "name": "Real Property Services",
-                  "amount2016": "497,407",
-                  "amount2017": "488,422",
-                  "pct_change": -1.806367824
-                },
-                {
-                  "name": "Step Up Program",
-                  "amount2016": "290,123",
-                  "amount2017": "293,775",
-                  "pct_change": 1.25877645
-                },
-                {
-                  "name": "Economic Development",
-                  "amount2016": "538,936",
-                  "amount2017": "589,299",
-                  "pct_change": 9.344894384
-                },
-                {
-                  "name": "Savannah Development and Renewal Authority (SDRA)",
-                  "amount2016": "275,000",
-                  "amount2017": "275,000",
-                  "pct_change": 0
-                },
-                {
-                  "name": "Entrepreneurial Center",
-                  "amount2016": "432,980",
-                  "amount2017": "440,712",
-                  "pct_change": 1.785763777
-                },
-                {
-                  "name": "Community Planning and Development",
-                  "amount2016": "826,823",
-                  "amount2017": "809,571",
-                  "pct_change": -2.086540892
-                },
-                {
-                  "name": "Housing and Housing Project Delivery",
-                  "amount2016": "1,453,585",
-                  "amount2017": "1,444,218",
-                  "pct_change": -0.64440676
-                },
-                {
-                  "name": "Advancement Center at Moses Jackson",
-                  "amount2016": "323,553",
-                  "amount2017": "342,527",
-                  "pct_change": 5.864263351
-                },
-                {
-                  "name": "Coastal Workforce Services",
-                  "amount2016": "5,077,608",
-                  "amount2017": "5,228,866",
-                  "pct_change": 2.978922359
-                },
-                {
-                  "name": "YouthBuild",
-                  "amount2016": "488,700",
-                  "amount2017": "550,399",
-                  "pct_change": 12.62512789
                 }
               ]
             }
