@@ -4,15 +4,15 @@
         {
           "name": "General Administration",
           "children": [
-            {
-                  "name": "Mayor and Aldermen",
+                {
                   "amount2017": 40000,
-                  "amount2016": 4343
+                  "amount2016": 4343,
+                  "name": "Mayor and Aldermen"
                 },
                 {
-                  "name": "Clerk of Council",
                   "amount2017": 400000.0,
-                  "amount2016": 400000.0
+                  "amount2016": 400000.0,
+                  "name": "Clerk of Council"
                 }
           ]
         },
@@ -20,14 +20,14 @@
           "name": "Leisure Services",
           "children": [
             {
-                  "name": "Leisure Services Bureau Chief",
                   "amount2017": 400000.0,
                   "amount2016": 400000.0
+                  "name": "Leisure Services Bureau Chief"
                 },
                 {
-                  "name": "Cultural Affairs",
                   "amount2017": 400000.0,
-                  "amount2016": 400000.0
+                  "amount2016": 400000.0,
+                  "name": "Cultural Affairs"
                 }
           ]
         },
@@ -35,39 +35,40 @@
           "name": "Police Bureau",
           "children": [
             {
-                  "name": "Police Chief",
                   "amount2017": 400000.0,
-                  "amount2016": 400000.0
+                  "amount2016": 400000.0,
+                  "name": "Police Chief"
                 },
                 {
-                  "name": "Patrol and Special Operations Division",
                   "amount2017": 400000.0,
-                  "amount2016": 400000.0
+                  "amount2016": 400000.0,
+                  "name": "Patrol and Special Operations Division"
                 }
           ]
         },
         {
           "name": "Fire and Emergency Services Bureau",
           "children": [
-             {
-                  "name": "Fire Logistics",
+                {
                   "amount2017": 400000.0,
-                  "amount2016": 400000.0
+                  "amount2016": 400000.0,
+                  "name": "Fire Logistics",
                 },
                 {
-                  "name": "City-Wide Emergency Planning",
                   "amount2017": 400000.0,
-                  "amount2016": 400000.0
+                  "amount2016": 400000.0,
+                  "name": "City-Wide Emergency Planning"
                 }
           ]
         },
         {
           "name": "ACM, Administrative and Community Services",
           "children": [
-            {
-                  "name": "ACM, Administrative and Community Services",
+                {
+                  
                   "amount2017": 400000.0,
-                  "amount2016": 400000.0
+                  "amount2016": 400000.0,
+                  "name": "ACM, Administrative and Community Services",
                 }
           ]
         },
@@ -75,14 +76,16 @@
           "name": "Management Services Bureau",
           "children": [
             {
-                  "name": "Chief",
+                  
                   "amount2017": 400000.0,
-                  "amount2016": 400000.0
+                  "amount2016": 400000.0,
+                  "name": "Chief"
                 },
                 {
-                  "name": "Research and Budget",
+                  
                   "amount2017": 400000.0,
-                  "amount2016": 400000.0
+                  "amount2016": 400000.0,
+                  "name": "Research and Budget"
                 }
           ]
         },
@@ -90,14 +93,16 @@
           "name": "Community and Economic Development Bureau",
           "children": [
             {
-                  "name": "Community and Economic Development Bureau Chief",
+                  
                   "amount2017": 400000.0,
-                  "amount2016": 400000.0
+                  "amount2016": 400000.0,
+                  "name": "Community and Economic Development Bureau Chief"
                 },
                 {
-                  "name": "Community Services",
+                  
                   "amount2017": 400000.0,
-                  "amount2016": 400000.0
+                  "amount2016": 400000.0,
+                  "name": "Community Services"
                 }
           ]
         },
@@ -105,9 +110,10 @@
           "name": "ACM, Development and Environmental Services",
           "children": [
             {
-                  "name": "ACM, Development and Environmental Services",
+                  
                   "amount2017": 400000.0,
-                  "amount2016": 400000.0
+                  "amount2016": 400000.0,
+                  "name": "ACM, Development and Environmental Services"
                 }
           ]
         },
@@ -115,14 +121,16 @@
           "name": "Public Works and Water Resources Bureau",
           "children": [
             {
-                  "name": "Public Works and Water Resources Bureau Chief",
+                  
                   "amount2017": 400000.0,
-                  "amount2016": 400000.0
+                  "amount2016": 400000.0,
+                  "name": "Public Works and Water Resources Bureau Chief"
                 },
                 {
-                  "name": "Traffic Engineering",
+                  
                   "amount2017": 400000.0,
-                  "amount2016": 400000.0
+                  "amount2016": 400000.0,
+                  "name": "Traffic Engineering"
                 }
           ]
         },
@@ -130,14 +138,16 @@
           "name": "Sanitation Bureau",
           "children": [
             {
-                  "name": "Sanitation Bureau Chief",
+                  
                   "amount2017": 400000.0,
-                  "amount2016": 400000.0
+                  "amount2016": 400000.0,
+                  "name": "Sanitation Bureau Chief"
                 },
                 {
-                  "name": "Residential Refuse",
+                  
                   "amount2017": 400000.0,
-                  "amount2016": 400000.0
+                  "amount2016": 400000.0,
+                  "name": "Residential Refuse"
                 }
           ]
         },
@@ -145,14 +155,16 @@
           "name": "General Fund Interdepartmental",
           "children": [
             {
-                  "name": "Tourism and Promotion",
+                  
                   "amount2017": 400000.0,
-                  "amount2016": 400000.0
+                  "amount2016": 400000.0,
+                  "name": "Tourism and Promotion"
                 },
                 {
-                  "name": "Planning and Development",
+                  
                   "amount2017": 400000.0,
-                  "amount2016": 400000.0
+                  "amount2016": 400000.0,
+                  "name": "Planning and Development"
                 }
           ]
         },
@@ -160,14 +172,16 @@
           "name": "Other Expenditures",
           "children": [
             {
-                  "name": "Grant Fund",
+                  
                   "amount2017": 400000.0,
-                  "amount2016": 400000.0
+                  "amount2016": 400000.0,
+                  "name": "Grant Fund"
                 },
                 {
-                  "name": "Community Development Program Costs/Carryforward",
+                  
                   "amount2017": 400000.0,
-                  "amount2016": 400000.0
+                  "amount2016": 400000.0,
+                  "name": "Community Development Program Costs/Carryforward"
                 }
           ]
         }
