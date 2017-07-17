@@ -9,13 +9,13 @@
               "children": [
                 {
                   "name": "Mayor and Aldermen",
-                  "amount2016": "4000044",
-                  "amount2015": "4343"
+                  "amount2017": "4000044",
+                  "amount2016": "4343"
                 },
                 {
                   "name": "Clerk of Council",
-                  "amount2016": 400000.0,
-                  "amount2015": 400000.0
+                  "amount2017": 400000.0,
+                  "amount2016": 400000.0
                 }
               ]
             }
@@ -29,13 +29,13 @@
               "children": [
                 {
                   "name": "Leisure Services Bureau Chief",
-                  "amount2016": 400000.0,
-                  "amount2017": 400000.0
+                  "amount2017": 400000.0,
+                  "amount2016": 400000.0
                 },
                 {
                   "name": "Cultural Affairs",
-                  "amount2016": 400000.0,
-                  "amount2017": 400000.0
+                  "amount2017": 400000.0,
+                  "amount2016": 400000.0
                 }
               ]
             }
@@ -49,13 +49,13 @@
               "children": [
                 {
                   "name": "Police Chief",
-                  "amount2016": 400000.0,
-                  "amount2017": 400000.0
+                  "amount2017": 400000.0,
+                  "amount2016": 400000.0
                 },
                 {
                   "name": "Patrol and Special Operations Division",
-                  "amount2016": 400000.0,
-                  "amount2017": 400000.0
+                  "amount2017": 400000.0,
+                  "amount2016": 400000.0
                 }
               ]
             }
@@ -69,13 +69,13 @@
               "children": [
                 {
                   "name": "Fire Logistics",
-                  "amount2016": 400000.0,
-                  "amount2017": 400000.0
+                  "amount2017": 400000.0,
+                  "amount2016": 400000.0
                 },
                 {
                   "name": "City-Wide Emergency Planning",
-                  "amount2016": 400000.0,
-                  "amount2017": 400000.0
+                  "amount2017": 400000.0,
+                  "amount2016": 400000.0
                 }
               ]
             }
@@ -89,8 +89,8 @@
               "children": [
                 {
                   "name": "ACM, Administrative and Community Services",
-                  "amount2016": 400000.0,
-                  "amount2017": 400000.0
+                  "amount2017": 400000.0,
+                  "amount2016": 400000.0
                 }
               ]
             }
@@ -104,13 +104,13 @@
               "children": [
                 {
                   "name": "Chief",
-                  "amount2016": 400000.0,
-                  "amount2017": 400000.0
+                  "amount2017": 400000.0,
+                  "amount2016": 400000.0
                 },
                 {
                   "name": "Research and Budget",
-                  "amount2016": 400000.0,
-                  "amount2017": 400000.0
+                  "amount2017": 400000.0,
+                  "amount2016": 400000.0
                 }
               ]
             }
@@ -124,13 +124,13 @@
               "children": [
                 {
                   "name": "Community and Economic Development Bureau Chief",
-                  "amount2016": 400000.0,
-                  "amount2017": 400000.0
+                  "amount2017": 400000.0,
+                  "amount2016": 400000.0
                 },
                 {
                   "name": "Community Services",
-                  "amount2016": 400000.0,
-                  "amount2017": 400000.0
+                  "amount2017": 400000.0,
+                  "amount2016": 400000.0
                 }
               ]
             }
@@ -144,8 +144,8 @@
               "children": [
                 {
                   "name": "ACM, Development and Environmental Services",
-                  "amount2016": 400000.0,
-                  "amount2017": 400000.0
+                  "amount2017": 400000.0,
+                  "amount2016": 400000.0
                 }
               ]
             }
@@ -159,13 +159,13 @@
               "children": [
                 {
                   "name": "Public Works and Water Resources Bureau Chief",
-                  "amount2016": 400000.0,
-                  "amount2017": 400000.0
+                  "amount2017": 400000.0,
+                  "amount2016": 400000.0
                 },
                 {
                   "name": "Traffic Engineering",
-                  "amount2016": 400000.0,
-                  "amount2017": 400000.0
+                  "amount2017": 400000.0,
+                  "amount2016": 400000.0
                 }
               ]
             }
@@ -179,13 +179,13 @@
               "children": [
                 {
                   "name": "Sanitation Bureau Chief",
-                  "amount2016": 400000.0,
-                  "amount2017": 400000.0
+                  "amount2017": 400000.0,
+                  "amount2016": 400000.0
                 },
                 {
                   "name": "Residential Refuse",
-                  "amount2016": 400000.0,
-                  "amount2017": 400000.0
+                  "amount2017": 400000.0,
+                  "amount2016": 400000.0
                 }
               ]
             }
@@ -199,13 +199,13 @@
               "children": [
                 {
                   "name": "Tourism and Promotion",
-                  "amount2016": 400000.0,
-                  "amount2017": 400000.0
+                  "amount2017": 400000.0,
+                  "amount2016": 400000.0
                 },
                 {
                   "name": "Planning and Development",
-                  "amount2016": 400000.0,
-                  "amount2017": 400000.0
+                  "amount2017": 400000.0,
+                  "amount2016": 400000.0
                 }
               ]
             }
@@ -219,13 +219,13 @@
               "children": [
                 {
                   "name": "Grant Fund",
-                  "amount2016": 400000.0,
-                  "amount2017": 400000.0
+                  "amount2017": 400000.0,
+                  "amount2016": 400000.0
                 },
                 {
                   "name": "Community Development Program Costs/Carryforward",
-                  "amount2016": 400000.0,
-                  "amount2017": 400000.0
+                  "amount2017": 400000.0,
+                  "amount2016": 400000.0
                 }
               ]
             }
