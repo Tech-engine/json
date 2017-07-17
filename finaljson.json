@@ -6,39 +6,45 @@
       "children": [
         {
           "name": "Mayor and Aldermen",
-          "amount2016": 786422,
-          "amount2017": 793356,
-          "pct_change": 26.8
+          "amount2016": "786422",
+          "amount2017": "793356",
+          "pct_change": 8.817149062
         },
         {
           "name": "Clerk of Council",
-          "amount2016": 361324,
-          "amount2017": 276889
+          "amount2016": "361324",
+          "amount2017": "276889",
+          "pct_change": -23.36822353
         },
         {
           "name": "Office of City Manager",
-          "amount2016": 1209969,
-          "amount2017": 1606710
+          "amount2016": "1209969",
+          "amount2017": "1606710",
+          "pct_change":32.78935245
         },
         {
           "name": "Public Information Office",
-          "amount2016": 513786,
-          "amount2017": 503195
+          "amount2016": "513786",
+          "amount2017": "503195",
+          "pct_change":-2.06136407
         },
         {
           "name": "Auditing",
-          "amount2016": 631992,
-          "amount2017": 531651
+          "amount2016": "631992",
+          "amount2017": "531651",
+          "pct_change":-15.87694148
         },
         {
           "name": "Finance",
-          "amount2016": 1164940,
-          "amount2017": 1145036
+          "amount2016": "1164940",
+          "amount2017": "1145036",
+          "pct_change":-1.70858585
         },
         {
           "name": "Legal",
-          "amount2016": 795954,
-          "amount2017": 1006830
+          "amount2016": "795954",
+          "amount2017": "1006830",
+          "pct_change":26.49349083
         }
       ]
     },
@@ -47,68 +53,81 @@
       "children": [
         {
           "name": "Leisure Services Bureau Chief",
-          "amount2016": 590207,
-          "amount2017": 783982
+          "amount2016": "590207",
+          "amount2017": "783982",
+          "pct_change":32.83170142
         },
         {
           "name": "Cultural Affairs",
-          "amount2016": 750757,
-          "amount2017": 771283
+          "amount2016": "750757",
+          "amount2017": "771283",
+          "pct_change":2.734040442
         },
         {
           "name": "Youth Services",
-          "amount2016": 4041536,
-          "amount2017": 4249808
+          "amount2016": "4041536",
+          "amount2017": "4249808",
+          "pct_change":5.153288255
         },
         {
           "name": "Athletic Services",
-          "amount2016": 1124347,
-          "amount2017": 1214985
+          "amount2016": "1124347",
+          "amount2017": "1214985",
+          "pct_change":8.0613903
         },
         {
           "name": "Senior Services",
-          "amount2016": 2116292,
-          "amount2017": 2186295
+          "amount2016": "2116292",
+          "amount2017": "2186295",
+          "pct_change":3.307813856
         },
         {
           "name": "Therapeutic Recreation",
-          "amount2016": 248546,
-          "amount2017": 256972
+          "amount2016": "248546",
+          "amount2017": "256972",
+          "pct_change":3.39011692
         },
         {
           "name": "Film Services",
-          "amount2016": 206213,
-          "amount2017": 0
+          "amount2016": "206213",
+          "amount2017": "0",
+          "pct_change":-100
         },
         {
           "name": "Building and Grounds Maintenance",
-          "amount2016": 4107713,
-          "amount2017": 4429044
+          "amount2016": "4107713",
+          "amount2017": "4429044",
+          "pct_change":7.822625388
         },
         {
           "name": "Building and Electrical Maintenance",
-          "amount2016": 1597595,
-          "amount2017": 1542338
+          "amount2016": "1597595",
+          "amount2017": "1542338",
+          "pct_change":-3.458761451
         },
         {
           "name": "Park and Tree",
-          "amount2016": 5574571,
-          "amount2017": 6472332
+          "amount2016": "5574571",
+          "amount2017": "6472332",
+          "pct_change":16.10457558
         },
         {
           "name": "City Cemeteries",
-          "amount2016": 1817879,
-          "amount2017": 1802576
+          "amount2016": "1817879",
+          "amount2017": "1802576",
+          "pct_change":-0.841805203
         },
         {
           "name": "Civic Center Operations",
-          "amount2016": 3264480,
-          "amount2017": 3229143
+          "amount2016": "3264480",
+          "amount2017": "3229143",
+          "pct_change":-1.08246949
         },
         {
           "name": "Civic Center Concessions",
-          "amount2016": 379655,
-          "amount2017": 370547
+          "amount2016": "379655",
+          "amount2017": "370547",
+          "pct_change":-2.399020163
         }
       ]
     },
@@ -117,98 +136,117 @@
       "children": [
         {
           "name": "Police Chief",
-          "amount2016": 1981333,
-          "amount2017": 2144735
+          "amount2016": "1981333",
+          "amount2017": "2144735",
+          "pct_change":8.247074066
         },
         {
           "name": "Patrol and Special Operations Division",
-          "amount2016": 39535291,
-          "amount2017": 39585734
+          "amount2016": "39535291",
+          "amount2017": "39585734",
+          "pct_change":0.127589803
         },
         {
           "name": "Investigations Division",
-          "amount2016": 7576113,
-          "amount2017": 7735201
+          "amount2016": "7576113",
+          "amount2017": "7735201",
+          "pct_change":2.099863083
         },
         {
           "name": "SARIC (Savannah Area Regional Intelligence Center)",
-          "amount2016": 1345692,
-          "amount2017": 1432447
+          "amount2016": "1345692",
+          "amount2017": "1432447",
+          "pct_change":6.446868972,
         },
         {
           "name": "Traffic Unit",
-          "amount2016": 1969301,
-          "amount2017": 1901266
+          "amount2016": "1969301",
+          "amount2017": "1901266",
+          "pct_change":-3.454779132
         },
         {
           "name": "Marine Patrol",
-          "amount2016": 716640,
-          "amount2017": 0
+          "amount2016": "716640",
+          "amount2017": "0",
+          "pct_change":-100
         },
         {
           "name": "Mounted Patrol",
-          "amount2016": 646587,
-          "amount2017": 599898
+          "amount2016": "646587",
+          "amount2017": "599898",
+          "pct_change":-7.220838031
         },
         {
           "name": "Canine Unit",
-          "amount2016": 575966,
-          "amount2017": 572895
+          "amount2016": "575966",
+          "amount2017": "572895",
+          "pct_change":-0.533191195
         },
         {
           "name": "Animal Control",
-          "amount2016": 928035,
-          "amount2017": 0
+          "amount2016": "928035",
+          "amount2017": "0",
+          "pct_change":-100
         },
         {
           "name": "Administrative Services Division",
-          "amount2016": 2593783,
-          "amount2017": 2786753
+          "amount2016": "2593783",
+          "amount2017": "2786753",
+          "pct_change":7.439712574
         },
         {
           "name": "Information Management",
-          "amount2016": 1515169,
-          "amount2017": 1471425
+          "amount2016": "1515169",
+          "amount2017": "1471425",
+          "pct_change":-2.887070683
         },
         {
           "name": "Training and Recruitment",
-          "amount2016": 1368943,
-          "amount2017": 1683355
+          "amount2016": "1368943",
+          "amount2017": "1683355",
+          "pct_change":22.9675012
         },
         {
           "name": "Counter Narcotics Team (CNT)",
-          "amount2016": 2227376,
-          "amount2017": 2374683
+          "amount2016": "2227376",
+          "amount2017": "2374683",
+          "pct_change":6.613477024
         },
         {
           "name": "Office of Professional Standards (OPS)",
-          "amount2016": 883139,
-          "amount2017": 809420
+          "amount2016": "883139",
+          "amount2017": "809420",
+          "pct_change":-8.347383594
         },
         {
           "name": "Savannah Impact Program (SIP)",
-          "amount2016": 1272659,
-          "amount2017": 1293674
+          "amount2016": "1272659",
+          "amount2017": "1293674",
+          "pct_change":1.65126715
         },
         {
           "name": "CrimeStoppers",
-          "amount2016": 233281,
-          "amount2017": 203962
+          "amount2016": "233281",
+          "amount2017": "203962",
+          "pct_change":-12.56810456
         },
         {
           "name": "Savannah Impact Work Ventures",
-          "amount2016": 308890,
-          "amount2017": 367250
+          "amount2016": "308890",
+          "amount2017": "367250",
+          "pct_change":18.89345722
         },
         {
           "name": "Undercover Narcotic Investigation Team (U.N.I.T)",
-          "amount2016": 844562,
-          "amount2017": 1132413
+          "amount2016": "844562",
+          "amount2017": "1132413",
+          "pct_change":34.08287373
         },
         {
           "name": "Communications Center",
-          "amount2016": 6903098,
-          "amount2017": 6742419
+          "amount2016": "6903098",
+          "amount2017": "6742419",
+          "pct_change":-2.327636085
         }
       ]
     },
@@ -217,23 +255,27 @@
       "children": [
         {
           "name": "Fire Logistics",
-          "amount2016": 7429902,
-          "amount2017": 7388365
+          "amount2016": "7429902",
+          "amount2017": "7388365",
+          "pct_change":-0.559051788
         },
         {
           "name": "City-Wide Emergency Planning",
-          "amount2016": 188012,
-          "amount2017": 178326
+          "amount2016": "188012",
+          "amount2017": "178326",
+          "pct_change":-5.151798821
         },
         {
           "name": "Fire Operations",
-          "amount2016": 21489179,
-          "amount2017": 21934937
+          "amount2016": "21489179",
+          "amount2017": "21934937",
+          "pct_change":2.074337042
         },
         {
           "name": "Hazardous Material Team",
-          "amount2016": 545142,
-          "amount2017": 573985
+          "amount2016": "545142",
+          "amount2017": "573985",
+          "pct_change":5.290915028
         }
       ]
     },
@@ -242,8 +284,9 @@
       "children": [
         {
           "name": "ACM, Administrative and Community Services",
-          "amount2016": 349292,
-          "amount2017": 191361
+          "amount2016": "349292",
+          "amount2017": "191361",
+          "pct_change":-45.21460554
         }
       ]
     },
@@ -252,88 +295,105 @@
       "children": [
         {
           "name": "Chief",
-          "amount2016": 376187,
-          "amount2017": 321801
+          "amount2016": "376187",
+          "amount2017": "321801",
+          "pct_change":-14.45717157
         },
         {
           "name": "Research and Budget",
-          "amount2016": 679161,
-          "amount2017": 681572
+          "amount2016": "679161",
+          "amount2017": "681572",
+          "pct_change":0.354996827
         },
         {
           "name": "Human Resources",
-          "amount2016": 1814202,
-          "amount2017": 1790682
+          "amount2016": "1814202",
+          "amount2017": "1790682",
+          "pct_change":-1.296437773
         },
         {
           "name": "Risk Management",
-          "amount2016": 838273,
-          "amount2017": 834494
+          "amount2016": "838273",
+          "amount2017": "834494",
+          "pct_change":-0.450807792
         },
         {
           "name": "Purchasing",
-          "amount2016": 477413,
-          "amount2017": 466464
+          "amount2016": "477413",
+          "amount2017": "466464",
+          "pct_change":-2.293402149
         },
         {
           "name": "Revenue",
-          "amount2016": 1596845,
-          "amount2017": 1498402
+          "amount2016": "1596845",
+          "amount2017": "1498402",
+          "pct_change":-6.164843801
         },
         {
           "name": "Recorder's Court of Chatham County",
-          "amount2016": 2393428,
-          "amount2017": 2311847
+          "amount2016": "2393428",
+          "amount2017": "2311847",
+          "pct_change":-3.408542058
         },
         {
           "name": "Research Library and Municipal Archives",
-          "amount2016": 234103,
-          "amount2017": 239508
+          "amount2016": "234103",
+          "amount2017": "239508",
+          "pct_change":2.308812788
         },
         {
           "name": "Inventory Management",
-          "amount2016": 352505,
-          "amount2017": 344709
+          "amount2016": "352505",
+          "amount2017": "344709",
+          "pct_change":-2.211599835
         },
         {
           "name": "Mail and Municipal Building Services",
-          "amount2016": 782042,
-          "amount2017": 808764
+          "amount2016": "782042",
+          "amount2017": "808764",
+          "pct_change":3.416952031
         },
         {
           "name": "Utility Services",
-          "amount2016": 1849064,
-          "amount2017": 2206005
+          "amount2016": "1849064",
+          "amount2017": "2206005",
+          "pct_change":19.30387483
         },
         {
           "name": "Mobility and Parking Administration \u0026 Enforcement",
-          "amount2016": 3709500,
-          "amount2017": 3584045
+          "amount2016": "3709500",
+          "amount2017": "3584045",
+          "pct_change":-3.381992182
         },
         {
           "name": "Parking Garages and Lots",
-          "amount2016": 5070087,
-          "amount2017": 6154380
+          "amount2016": "5070087",
+          "amount2017": "6154380",
+          "pct_change":21.38608272
         },
         {
           "name": "Parking Interdepartmental",
-          "amount2016": 3243843,
-          "amount2017": 2388867
+          "amount2016": "3243843",
+          "amount2017": "2388867",
+          "pct_change":-26.35688595
         },
         {
           "name": "Tourism Management and Ambassadorship Program",
-          "amount2016": 1299792,
-          "amount2017": 1516273
+          "amount2016": "1299792",
+          "amount2017": "1516273",
+          "pct_change":16.65504942
         },
         {
           "name": "Vehicle Maintenance",
-          "amount2016": 5616046,
-          "amount2017": 5614534
+          "amount2016": "5616046",
+          "amount2017": "5614534",
+          "pct_change":-0.026922856
         },
         {
           "name": "Information Technology",
-          "amount2016": 6563426,
-          "amount2017": 6699876
+          "amount2016": "6563426",
+          "amount2017": "6699876",
+          "pct_change":2.078944746
         }
       ]
     },
@@ -342,78 +402,93 @@
       "children": [
         {
           "name": "Community and Economic Development Bureau Chief",
-          "amount2016": 385801,
-          "amount2017": 383757
+          "amount2016": "385801",
+          "amount2017": "383757",
+          "pct_change":-0.529806818
         },
         {
           "name": "Community Services",
-          "amount2016": 345826,
-          "amount2017": 580244
+          "amount2016": "345826",
+          "amount2017": "580244",
+          "pct_change":67.78495544
         },
         {
           "name": "Citizen Office",
-          "amount2016": 1382545,
-          "amount2017": 0
+          "amount2016": "1382545",
+          "amount2017": "0",
+          "pct_change":-100
         },
         {
           "name": "River Street Hospitality Center",
-          "amount2016": 142499,
-          "amount2017": 131558
+          "amount2016": "142499",
+          "amount2017": "131558",
+          "pct_change":-7.677948617
         },
         {
           "name": "311 Call Service Center",
-          "amount2016": 207686,
-          "amount2017": 207112
+          "amount2016": "207686",
+          "amount2017": "207112",
+          "pct_change":-0.276378764
         },
         {
           "name": "Real Property Services",
-          "amount2016": 497407,
-          "amount2017": 488422
+          "amount2016": "497407",
+          "amount2017": "488422",
+          "pct_change":-1.806367824
         },
         {
           "name": "Step Up Program",
-          "amount2016": 290123,
-          "amount2017": 293775
+          "amount2016": "290123",
+          "amount2017": "293775",
+          "pct_change":1.25877645
         },
         {
           "name": "Economic Development",
-          "amount2016": 538936,
-          "amount2017": 589299
+          "amount2016": "538936",
+          "amount2017": "589299",
+          "pct_change":9.344894384
         },
         {
           "name": "Savannah Development and Renewal Authority (SDRA)",
-          "amount2016": 275000,
-          "amount2017": 275000
+          "amount2016": "275000",
+          "amount2017": "275000",
+          "pct_change":0 
         },
         {
           "name": "Entrepreneurial Center",
-          "amount2016": 432980,
-          "amount2017": 440712
+          "amount2016": "432980",
+          "amount2017": "440712",
+          "pct_change":1.785763777
         },
         {
           "name": "Community Planning and Development",
-          "amount2016": 826823,
-          "amount2017": 809571
+          "amount2016": "826823",
+          "amount2017": "809571",
+          "pct_change":-2.086540892
         },
         {
           "name": "Housing and Housing Project Delivery",
-          "amount2016": 1453585,
-          "amount2017": 1444218
+          "amount2016": "1453585",
+          "amount2017": "1444218",
+          "pct_change":-0.64440676
         },
         {
           "name": "Advancement Center at Moses Jackson",
-          "amount2016": 323553,
-          "amount2017": 342527
+          "amount2016": "323553",
+          "amount2017": "342527",
+          "pct_change":5.864263351
         },
         {
           "name": "Coastal Workforce Services",
-          "amount2016": 5077608,
-          "amount2017": 5228866
+          "amount2016": "5077608",
+          "amount2017": "5228866",
+          "pct_change":2.978922359
         },
         {
           "name": "YouthBuild",
-          "amount2016": 488700,
-          "amount2017": 550399
+          "amount2016": "488700",
+          "amount2017": "550399",
+          "pct_change":12.62512789
         }
       ]
     },
@@ -422,8 +497,9 @@
       "children": [
         {
           "name": "ACM, Development and Environmental Services  $",
-          "amount2016": 338739,
-          "amount2017": 353307
+          "amount2016": "338739",
+          "amount2017": "353307",
+          "pct_change":4.300656257
         }
       ]
     },
@@ -432,88 +508,105 @@
       "children": [
         {
           "name": "Public Works and Water Resources Bureau Chief  $",
-          "amount2016": 718467,
-          "amount2017": 696140
+          "amount2016": "718467",
+          "amount2017": "696140",
+          "pct_change":-3.107588797
         },
         {
           "name": "Traffic Engineering",
-          "amount2016": 7008750,
-          "amount2017": 7309917
+          "amount2016": "7008750",
+          "amount2017": "7309917",
+          "pct_change":4.297014446
         },
         {
           "name": "Stormwater Management",
-          "amount2016": 5991535,
-          "amount2017": 6471179
+          "amount2016": "5991535",
+          "amount2017": "6471179",
+          "pct_change":8.005360897
         },
         {
           "name": "Streets Maintenance",
-          "amount2016": 5404305,
-          "amount2017": 5313053
+          "amount2016": "5404305",
+          "amount2017": "5313053",
+          "pct_change":-1.688505738
         },
         {
           "name": "Development Services",
-          "amount2016": 4411669,
-          "amount2017": 4459936
+          "amount2016": "4411669",
+          "amount2017": "4459936",
+          "pct_change":1.094075734
         },
         {
           "name": "Environmental Services and Sustainability Division",
-          "amount2016": 397296,
-          "amount2017": 414455
+          "amount2016": "397296",
+          "amount2017": "414455",
+          "pct_change":4.318946075
         },
         {
           "name": "Water and Sewer Director",
-          "amount2016": 524834,
-          "amount2017": 527054
+          "amount2016": "524834",
+          "amount2017": "527054",
+          "pct_change":0.422990889
         },
         {
           "name": "Water and Sewer Planning \u0026 Engineering",
-          "amount2016": 1400466,
-          "amount2017": 1449772
+          "amount2016": "1400466",
+          "amount2017": "1449772",
+          "pct_change":3.520685258
         },
         {
           "name": "Water Supply and Treatment",
-          "amount2016": 6332429,
-          "amount2017": 6375404
+          "amount2016": "6332429",
+          "amount2017": "6375404",
+          "pct_change":0.678649536
         },
         {
           "name": "Water Distribution",
-          "amount2016": 4623068,
-          "amount2017": 5001566
+          "amount2016": "4623068",
+          "amount2017": "5001566",
+          "pct_change":8.187160561
         },
         {
           "name": "Water Interdepartmental",
-          "amount2016": 11796265,
-          "amount2017": 10579722
+          "amount2016": "11796265",
+          "amount2017": "10579722",
+          "pct_change":-10.31295075
         },
         {
           "name": "Sewer Maintenance",
-          "amount2016": 3676325,
-          "amount2017": 3848165
+          "amount2016": "3676325",
+          "amount2017": "3848165",
+          "pct_change":4.6742331
         },
         {
           "name": "Lift Stations Maintenance",
-          "amount2016": 4799528,
-          "amount2017": 5010897
+          "amount2016": "4799528",
+          "amount2017": "5010897",
+          "pct_change":4.403953889
         },
         {
           "name": "President Street Plant",
-          "amount2016": 7277336,
-          "amount2017": 6990675
+          "amount2016": "7277336",
+          "amount2017": "6990675",
+          "pct_change":-3.939092547
         },
         {
           "name": "Regional Plants",
-          "amount2016": 2384929,
-          "amount2017": 2289773
+          "amount2016": "2384929",
+          "amount2017": "2289773",
+          "pct_change":-3.989888169
         },
         {
           "name": "Sewer Interdepartmental",
-          "amount2016": 21621247,
-          "amount2017": 23444219
+          "amount2016": "21621247",
+          "amount2017": "23444219",
+          "pct_change":8.431391584
         },
         {
           "name": "I\u0026D Water Plant",
-          "amount2016": 8507686,
-          "amount2017": 7619510
+          "amount2016": "8507686",
+          "amount2017": "7619510",
+          "pct_change":-10.43968948
         }
       ]
     },
@@ -522,43 +615,51 @@
       "children": [
         {
           "name": "Sanitation Bureau Chief  $",
-          "amount2016": 651754,
-          "amount2017": 666762
+          "amount2016": "651754",
+          "amount2017": "666762",
+          "pct_change":2.302709304
         },
         {
           "name": "Residential Refuse",
-          "amount2016": 8066375,
-          "amount2017": 8009129
+          "amount2016": "8066375",
+          "amount2017": "8009129",
+          "pct_change":-0.709686817
         },
         {
           "name": "Refuse Disposal",
-          "amount2016": 6207779,
-          "amount2017": 6650250
+          "amount2016": "6207779",
+          "amount2017": "6650250",
+          "pct_change":7.127686085
         },
         {
           "name": "Street Cleaning",
-          "amount2016": 2905195,
-          "amount2017": 2849227
+          "amount2016": "2905195",
+          "amount2017": "2849227",
+          "pct_change":-1.926479978
         },
         {
           "name": "Commercial Refuse",
-          "amount2016": 1725189,
-          "amount2017": 1739255
+          "amount2016": "1725189",
+          "amount2017": "1739255",
+          "pct_change":0.815330958
         },
         {
           "name": "Recycling and Litter Services",
-          "amount2016": 2690141,
-          "amount2017": 2505828
+          "amount2016": "2690141",
+          "amount2017": "2505828",
+          "pct_change":-6.85142526  
         },
         {
           "name": "Property Maintenance Enforcement",
-          "amount2016": 2280278,
-          "amount2017": 2357542
+          "amount2016": "2280278",
+          "amount2017": "2357542",
+          "pct_change":3.388358788
         },
         {
           "name": "Sanitation Interdepartmental",
-          "amount2016": 4105876,
-          "amount2017": 5220689
+          "amount2016": "4105876",
+          "amount2017": "5220689",
+          "pct_change":27.15164803
         }
       ]
     },
@@ -567,48 +668,57 @@
       "children": [
         {
           "name": "Tourism and Promotion",
-          "amount2016": 2156843,
-          "amount2017": 2152409
+          "amount2016": "2156843",
+          "amount2017": "2152409",
+          "pct_change":-0.205578246
         },
         {
           "name": "Planning and Development",
-          "amount2016": 1632533,
-          "amount2017": 1573972
+          "amount2016": "1632533",
+          "amount2017": "1573972",
+          "pct_change":-3.587125038
         },
         {
           "name": "Human Services",
-          "amount2016": 856034,
-          "amount2017": 623150
+          "amount2016": "856034",
+          "amount2017": "623150",
+          "pct_change":-27.20499419
         },
         {
           "name": "Cultural Services",
-          "amount2016": 764320,
-          "amount2017": 764320
+          "amount2016": "764320",
+          "amount2017": "764320",
+          "pct_change":0
         },
         {
           "name": "City Dues/Memberships",
-          "amount2016": 236406,
-          "amount2017": 226846
+          "amount2016": "236406",
+          "amount2017": "226846",
+          "pct_change":-4.043890595
         },
         {
           "name": "Transfer to Other Funds",
-          "amount2016": 10522220,
-          "amount2017": 11271906
+          "amount2016": "10522220",
+          "amount2017": "11271906",
+          "pct_change":7.124789255
         },
         {
           "name": "Services from Other Funds",
-          "amount2016": 7649840,
-          "amount2017": 7621964
+          "amount2016": "7649840",
+          "amount2017": "7621964",
+          "pct_change":-0.364399778
         },
         {
           "name": "Other Expenses/Contributions",
-          "amount2016": 1333261,
-          "amount2017": 1696079
+          "amount2016": "1333261",
+          "amount2017": "1696079",
+          "pct_change":27.2128263
         },
         {
           "name": "Contingency",
-          "amount2016": 838617,
-          "amount2017": 250000
+          "amount2016": "838617",
+          "amount2017": "250000",
+          "pct_change":-70.18901358
         }
       ]
     },
@@ -617,38 +727,45 @@
       "children": [
         {
           "name": "Grant Fund",
-          "amount2016": 2820464,
-          "amount2017": 11540862
+          "amount2016": "2820464",
+          "amount2017": "11540862",
+          "pct_change":309.183099
         },
         {
           "name": "Community Development Program Costs/Carryforward",
-          "amount2016": 7481442,
-          "amount2017": 4710772
+          "amount2016": "7481442",
+          "amount2017": "4710772",
+          "pct_change":-37.03390336
         },
         {
           "name": "Hotel/Motel Tax Fund",
-          "amount2016": 8862343,
-          "amount2017": 9287439
+          "amount2016": "8862343",
+          "amount2017": "9287439",
+          "pct_change":4.79665479
         },
         {
           "name": "Computer Purchase Fund",
-          "amount2016": 721295,
-          "amount2017": 721295
+          "amount2016": "721295",
+          "amount2017": "721295",
+          "pct_change":0
         },
         {
           "name": "Vehicle Purchase Fund",
-          "amount2016": 6492400,
-          "amount2017": 10587030
+          "amount2016": "6492400",
+          "amount2017": "10587030",
+          "pct_change":63.0680488
         },
         {
           "name": "Radio Replacement Fund",
-          "amount2016": 1338000,
-          "amount2017": 1338000
+          "amount2016": "1338000",
+          "amount2017": "1338000",
+          "pct_change":0
         },
         {
           "name": "Recorder's Court Technology Fund",
-          "amount2016": 100000,
-          "amount2017": 60000
+          "amount2016": "100000",
+          "amount2017": "60000",
+          "pct_change":-40
         }
       ]
     }
