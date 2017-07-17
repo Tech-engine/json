@@ -1,215 +1,655 @@
 {
-      "name": "department",
+  "name": "Sacramento Budget 2015/16",
+  "children": [
+    {
+      "name": "General Administration",
       "children": [
         {
-          
-          "children": [
-                {
-                  "amount2017": 40056.0,
-                  "amount2016": 4343.0,
-                  "pct_change": 56.0,
-                  "name": "Mayor and Aldermen"
-                },
-                {
-                  "amount2017": 400000.0,
-                  "amount2016": 400000.0,
-                   "pct_change": 34.0,
-                  "name": "Clerk of Council"
-                }
-          ],
-              "name": "General Administration",
-              "desc":""
+          "name": "Mayor and Aldermen",
+          "amount2016": 786422,
+          "amount2017": 793356
         },
         {
-          
-          "children": [
-            {
-                  "amount2017": 400000.0,
-                  "amount2016": 400000.0,
-                  "name": "Leisure Services Bureau Chief"
-                },
-                {
-                  "amount2017": 400000.0,
-                  "amount2016": 400000.0,
-                  "name": "Cultural Affairs"
-                }
-          ],
-              "name": "Leisure Services",
-              "desc":""
+          "name": "Clerk of Council",
+          "amount2016": 361324,
+          "amount2017": 276889
         },
         {
-     
-          "children": [
-            {
-                  "amount2017": 400000.0,
-                  "amount2016": 400000.0,
-                  "name": "Police Chief"
-                },
-                {
-                  "amount2017": 400000.0,
-                  "amount2016": 400000.0,
-                  "name": "Patrol and Special Operations Division"
-                }
-          ],
-              "name": "Police Bureau",
-              "desc":""
+          "name": "Office of City Manager",
+          "amount2016": 1209969,
+          "amount2017": 1606710
         },
         {
-          
-          "children": [
-                {
-                  "amount2017": 400000.0,
-                  "amount2016": 400000.0,
-                  "name": "Fire Logistics"
-                },
-                {
-                  "amount2017": 400000.0,
-                  "amount2016": 400000.0,
-                  "name": "City-Wide Emergency Planning"
-                }
-          ],
-            "name": "Fire and Emergency Services Bureau",
-              "desc":""
+          "name": "Public Information Office",
+          "amount2016": 513786,
+          "amount2017": 503195
         },
         {
-          
-          "children": [
-                {
-                  
-                  "amount2017": 400000.0,
-                  "amount2016": 400000.0,
-                  "name": "ACM, Administrative and Community Services"
-                }
-          ],
-              "name": "ACM, Administrative and Community Services",
-              "desc":""
+          "name": "Auditing",
+          "amount2016": 631992,
+          "amount2017": 531651
         },
         {
-          
-          "children": [
-            {
-                  
-                  "amount2017": 567078.0,
-                  "amount2016": 400000.0,
-                  "name": "Chief"
-                },
-                {
-                  
-                  "amount2017": 700797.0,
-                  "amount2016": 400000.0,
-                  "name": "Research and Budget"
-                }
-          ],
-              "name": "Management Services Bureau",
-              "desc":""
+          "name": "Finance",
+          "amount2016": 1164940,
+          "amount2017": 1145036
         },
         {
-          
-          "children": [
-            {
-                  
-                  "amount2017": 400000.0,
-                  "amount2016": 400000.0,
-                  "name": "Community and Economic Development Bureau Chief"
-                },
-                {
-                  
-                  "amount2017": 400000.0,
-                  "amount2016": 400000.0,
-                  "name": "Community Services"
-                }
-          ],
-              "name": "Community and Economic Development Bureau",
-              "desc":""
-        },
-        {
-          
-          "children": [
-            {
-                  
-                  "amount2017": 400000.0,
-                  "amount2016": 400000.0,
-                  "name": "ACM, Development and Environmental Services"
-                }
-          ],
-              "name": "ACM, Development and Environmental Services",
-              "desc":""
-        },
-        {
-          
-          "children": [
-            {
-                  
-                  "amount2017": 400000.0,
-                  "amount2016": 400000.0,
-                  "name": "Public Works and Water Resources Bureau Chief"
-                },
-                {
-                  
-                  "amount2017": 400000.0,
-                  "amount2016": 400000.0,
-                  "name": "Traffic Engineering"
-                }
-          ],
-              "name": "Public Works and Water Resources Bureau",
-              "desc":""
-        },
-        {
-          
-          "children": [
-            {
-                  
-                  "amount2017": 400000.0,
-                  "amount2016": 400000.0,
-                  "name": "Sanitation Bureau Chief"
-                },
-                {
-                  
-                  "amount2017": 400000.0,
-                  "amount2016": 400000.0,
-                  "name": "Residential Refuse"
-                }
-          ],
-              "name": "Sanitation Bureau",
-              "desc":""
-        },
-        {
-          
-          "children": [
-            {
-                  
-                  "amount2017": 400000.0,
-                  "amount2016": 400000.0,
-                  "name": "Tourism and Promotion"
-                },
-                {
-                  
-                  "amount2017": 400000.0,
-                  "amount2016": 400000.0,
-                  "name": "Planning and Development"
-                }
-          ],
-            "name": "General Fund Interdepartmental",
-              "desc":""
-        },
-        {
-          
-          "children": [
-            {
-                  
-                  "amount2017": 400000.0,
-                  "amount2016": 400000.0,
-                  "name": "Grant Fund"
-                },
-                {
-                  
-                  "amount2017": 400000.0,
-                  "amount2016": 400000.0,
-                  "name": "Community Development Program Costs/Carryforward"
-                }
-          ],
-              "name": "Other Expenditures",
-              "desc":""
+          "name": "Legal",
+          "amount2016": 795954,
+          "amount2017": 1006830
         }
       ]
+    },
+    {
+      "name": "Leisure Services",
+      "children": [
+        {
+          "name": "Leisure Services Bureau Chief",
+          "amount2016": 590207,
+          "amount2017": 783982
+        },
+        {
+          "name": "Cultural Affairs",
+          "amount2016": 750757,
+          "amount2017": 771283
+        },
+        {
+          "name": "Youth Services",
+          "amount2016": 4041536,
+          "amount2017": 4249808
+        },
+        {
+          "name": "Athletic Services",
+          "amount2016": 1124347,
+          "amount2017": 1214985
+        },
+        {
+          "name": "Senior Services",
+          "amount2016": 2116292,
+          "amount2017": 2186295
+        },
+        {
+          "name": "Therapeutic Recreation",
+          "amount2016": 248546,
+          "amount2017": 256972
+        },
+        {
+          "name": "Film Services",
+          "amount2016": 206213,
+          "amount2017": 0
+        },
+        {
+          "name": "Building and Grounds Maintenance",
+          "amount2016": 4107713,
+          "amount2017": 4429044
+        },
+        {
+          "name": "Building and Electrical Maintenance",
+          "amount2016": 1597595,
+          "amount2017": 1542338
+        },
+        {
+          "name": "Park and Tree",
+          "amount2016": 5574571,
+          "amount2017": 6472332
+        },
+        {
+          "name": "City Cemeteries",
+          "amount2016": 1817879,
+          "amount2017": 1802576
+        },
+        {
+          "name": "Civic Center Operations",
+          "amount2016": 3264480,
+          "amount2017": 3229143
+        },
+        {
+          "name": "Civic Center Concessions",
+          "amount2016": 379655,
+          "amount2017": 370547
+        }
+      ]
+    },
+    {
+      "name": "Police Bureau",
+      "children": [
+        {
+          "name": "Police Chief",
+          "amount2016": 1981333,
+          "amount2017": 2144735
+        },
+        {
+          "name": "Patrol and Special Operations Division",
+          "amount2016": 39535291,
+          "amount2017": 39585734
+        },
+        {
+          "name": "Investigations Division",
+          "amount2016": 7576113,
+          "amount2017": 7735201
+        },
+        {
+          "name": "SARIC (Savannah Area Regional Intelligence Center)",
+          "amount2016": 1345692,
+          "amount2017": 1432447
+        },
+        {
+          "name": "Traffic Unit",
+          "amount2016": 1969301,
+          "amount2017": 1901266
+        },
+        {
+          "name": "Marine Patrol",
+          "amount2016": 716640,
+          "amount2017": 0
+        },
+        {
+          "name": "Mounted Patrol",
+          "amount2016": 646587,
+          "amount2017": 599898
+        },
+        {
+          "name": "Canine Unit",
+          "amount2016": 575966,
+          "amount2017": 572895
+        },
+        {
+          "name": "Animal Control",
+          "amount2016": 928035,
+          "amount2017": 0
+        },
+        {
+          "name": "Administrative Services Division",
+          "amount2016": 2593783,
+          "amount2017": 2786753
+        },
+        {
+          "name": "Information Management",
+          "amount2016": 1515169,
+          "amount2017": 1471425
+        },
+        {
+          "name": "Training and Recruitment",
+          "amount2016": 1368943,
+          "amount2017": 1683355
+        },
+        {
+          "name": "Counter Narcotics Team (CNT)",
+          "amount2016": 2227376,
+          "amount2017": 2374683
+        },
+        {
+          "name": "Office of Professional Standards (OPS)",
+          "amount2016": 883139,
+          "amount2017": 809420
+        },
+        {
+          "name": "Savannah Impact Program (SIP)",
+          "amount2016": 1272659,
+          "amount2017": 1293674
+        },
+        {
+          "name": "CrimeStoppers",
+          "amount2016": 233281,
+          "amount2017": 203962
+        },
+        {
+          "name": "Savannah Impact Work Ventures",
+          "amount2016": 308890,
+          "amount2017": 367250
+        },
+        {
+          "name": "Undercover Narcotic Investigation Team (U.N.I.T)",
+          "amount2016": 844562,
+          "amount2017": 1132413
+        },
+        {
+          "name": "Communications Center",
+          "amount2016": 6903098,
+          "amount2017": 6742419
+        }
+      ]
+    },
+    {
+      "name": "Fire and Emergency Services Bureau",
+      "children": [
+        {
+          "name": "Fire Logistics",
+          "amount2016": 7429902,
+          "amount2017": 7388365
+        },
+        {
+          "name": "City-Wide Emergency Planning",
+          "amount2016": 188012,
+          "amount2017": 178326
+        },
+        {
+          "name": "Fire Operations",
+          "amount2016": 21489179,
+          "amount2017": 21934937
+        },
+        {
+          "name": "Hazardous Material Team",
+          "amount2016": 545142,
+          "amount2017": 573985
+        }
+      ]
+    },
+    {
+      "name": "ACM, Administrative and Community Services",
+      "children": [
+        {
+          "name": "ACM, Administrative and Community Services",
+          "amount2016": 349292,
+          "amount2017": 191361
+        }
+      ]
+    },
+    {
+      "name": "Management Services Bureau",
+      "children": [
+        {
+          "name": "Chief",
+          "amount2016": 376187,
+          "amount2017": 321801
+        },
+        {
+          "name": "Research and Budget",
+          "amount2016": 679161,
+          "amount2017": 681572
+        },
+        {
+          "name": "Human Resources",
+          "amount2016": 1814202,
+          "amount2017": 1790682
+        },
+        {
+          "name": "Risk Management",
+          "amount2016": 838273,
+          "amount2017": 834494
+        },
+        {
+          "name": "Purchasing",
+          "amount2016": 477413,
+          "amount2017": 466464
+        },
+        {
+          "name": "Revenue",
+          "amount2016": 1596845,
+          "amount2017": 1498402
+        },
+        {
+          "name": "Recorder's Court of Chatham County",
+          "amount2016": 2393428,
+          "amount2017": 2311847
+        },
+        {
+          "name": "Research Library and Municipal Archives",
+          "amount2016": 234103,
+          "amount2017": 239508
+        },
+        {
+          "name": "Inventory Management",
+          "amount2016": 352505,
+          "amount2017": 344709
+        },
+        {
+          "name": "Mail and Municipal Building Services",
+          "amount2016": 782042,
+          "amount2017": 808764
+        },
+        {
+          "name": "Utility Services",
+          "amount2016": 1849064,
+          "amount2017": 2206005
+        },
+        {
+          "name": "Mobility and Parking Administration \u0026 Enforcement",
+          "amount2016": 3709500,
+          "amount2017": 3584045
+        },
+        {
+          "name": "Parking Garages and Lots",
+          "amount2016": 5070087,
+          "amount2017": 6154380
+        },
+        {
+          "name": "Parking Interdepartmental",
+          "amount2016": 3243843,
+          "amount2017": 2388867
+        },
+        {
+          "name": "Tourism Management and Ambassadorship Program",
+          "amount2016": 1299792,
+          "amount2017": 1516273
+        },
+        {
+          "name": "Vehicle Maintenance",
+          "amount2016": 5616046,
+          "amount2017": 5614534
+        },
+        {
+          "name": "Information Technology",
+          "amount2016": 6563426,
+          "amount2017": 6699876
+        }
+      ]
+    },
+    {
+      "name": "Community and Economic Development Bureau",
+      "children": [
+        {
+          "name": "Community and Economic Development Bureau Chief",
+          "amount2016": 385801,
+          "amount2017": 383757
+        },
+        {
+          "name": "Community Services",
+          "amount2016": 345826,
+          "amount2017": 580244
+        },
+        {
+          "name": "Citizen Office",
+          "amount2016": 1382545,
+          "amount2017": 0
+        },
+        {
+          "name": "River Street Hospitality Center",
+          "amount2016": 142499,
+          "amount2017": 131558
+        },
+        {
+          "name": "311 Call Service Center",
+          "amount2016": 207686,
+          "amount2017": 207112
+        },
+        {
+          "name": "Real Property Services",
+          "amount2016": 497407,
+          "amount2017": 488422
+        },
+        {
+          "name": "Step Up Program",
+          "amount2016": 290123,
+          "amount2017": 293775
+        },
+        {
+          "name": "Economic Development",
+          "amount2016": 538936,
+          "amount2017": 589299
+        },
+        {
+          "name": "Savannah Development and Renewal Authority (SDRA)",
+          "amount2016": 275000,
+          "amount2017": 275000
+        },
+        {
+          "name": "Entrepreneurial Center",
+          "amount2016": 432980,
+          "amount2017": 440712
+        },
+        {
+          "name": "Community Planning and Development",
+          "amount2016": 826823,
+          "amount2017": 809571
+        },
+        {
+          "name": "Housing and Housing Project Delivery",
+          "amount2016": 1453585,
+          "amount2017": 1444218
+        },
+        {
+          "name": "Advancement Center at Moses Jackson",
+          "amount2016": 323553,
+          "amount2017": 342527
+        },
+        {
+          "name": "Coastal Workforce Services",
+          "amount2016": 5077608,
+          "amount2017": 5228866
+        },
+        {
+          "name": "YouthBuild",
+          "amount2016": 488700,
+          "amount2017": 550399
+        }
+      ]
+    },
+    {
+      "name": "ACM, Development and Environmental Services  $",
+      "children": [
+        {
+          "name": "ACM, Development and Environmental Services  $",
+          "amount2016": 338739,
+          "amount2017": 353307
+        }
+      ]
+    },
+    {
+      "name": "Public Works and Water Resources Bureau",
+      "children": [
+        {
+          "name": "Public Works and Water Resources Bureau Chief  $",
+          "amount2016": 718467,
+          "amount2017": 696140
+        },
+        {
+          "name": "Traffic Engineering",
+          "amount2016": 7008750,
+          "amount2017": 7309917
+        },
+        {
+          "name": "Stormwater Management",
+          "amount2016": 5991535,
+          "amount2017": 6471179
+        },
+        {
+          "name": "Streets Maintenance",
+          "amount2016": 5404305,
+          "amount2017": 5313053
+        },
+        {
+          "name": "Development Services",
+          "amount2016": 4411669,
+          "amount2017": 4459936
+        },
+        {
+          "name": "Environmental Services and Sustainability Division",
+          "amount2016": 397296,
+          "amount2017": 414455
+        },
+        {
+          "name": "Water and Sewer Director",
+          "amount2016": 524834,
+          "amount2017": 527054
+        },
+        {
+          "name": "Water and Sewer Planning \u0026 Engineering",
+          "amount2016": 1400466,
+          "amount2017": 1449772
+        },
+        {
+          "name": "Water Supply and Treatment",
+          "amount2016": 6332429,
+          "amount2017": 6375404
+        },
+        {
+          "name": "Water Distribution",
+          "amount2016": 4623068,
+          "amount2017": 5001566
+        },
+        {
+          "name": "Water Interdepartmental",
+          "amount2016": 11796265,
+          "amount2017": 10579722
+        },
+        {
+          "name": "Sewer Maintenance",
+          "amount2016": 3676325,
+          "amount2017": 3848165
+        },
+        {
+          "name": "Lift Stations Maintenance",
+          "amount2016": 4799528,
+          "amount2017": 5010897
+        },
+        {
+          "name": "President Street Plant",
+          "amount2016": 7277336,
+          "amount2017": 6990675
+        },
+        {
+          "name": "Regional Plants",
+          "amount2016": 2384929,
+          "amount2017": 2289773
+        },
+        {
+          "name": "Sewer Interdepartmental",
+          "amount2016": 21621247,
+          "amount2017": 23444219
+        },
+        {
+          "name": "I\u0026D Water Plant",
+          "amount2016": 8507686,
+          "amount2017": 7619510
+        }
+      ]
+    },
+    {
+      "name": "Sanitation Bureau",
+      "children": [
+        {
+          "name": "Sanitation Bureau Chief  $",
+          "amount2016": 651754,
+          "amount2017": 666762
+        },
+        {
+          "name": "Residential Refuse",
+          "amount2016": 8066375,
+          "amount2017": 8009129
+        },
+        {
+          "name": "Refuse Disposal",
+          "amount2016": 6207779,
+          "amount2017": 6650250
+        },
+        {
+          "name": "Street Cleaning",
+          "amount2016": 2905195,
+          "amount2017": 2849227
+        },
+        {
+          "name": "Commercial Refuse",
+          "amount2016": 1725189,
+          "amount2017": 1739255
+        },
+        {
+          "name": "Recycling and Litter Services",
+          "amount2016": 2690141,
+          "amount2017": 2505828
+        },
+        {
+          "name": "Property Maintenance Enforcement",
+          "amount2016": 2280278,
+          "amount2017": 2357542
+        },
+        {
+          "name": "Sanitation Interdepartmental",
+          "amount2016": 4105876,
+          "amount2017": 5220689
+        }
+      ]
+    },
+    {
+      "name": "General Fund Interdepartmental",
+      "children": [
+        {
+          "name": "Tourism and Promotion",
+          "amount2016": 2156843,
+          "amount2017": 2152409
+        },
+        {
+          "name": "Planning and Development",
+          "amount2016": 1632533,
+          "amount2017": 1573972
+        },
+        {
+          "name": "Human Services",
+          "amount2016": 856034,
+          "amount2017": 623150
+        },
+        {
+          "name": "Cultural Services",
+          "amount2016": 764320,
+          "amount2017": 764320
+        },
+        {
+          "name": "City Dues/Memberships",
+          "amount2016": 236406,
+          "amount2017": 226846
+        },
+        {
+          "name": "Transfer to Other Funds",
+          "amount2016": 10522220,
+          "amount2017": 11271906
+        },
+        {
+          "name": "Services from Other Funds",
+          "amount2016": 7649840,
+          "amount2017": 7621964
+        },
+        {
+          "name": "Other Expenses/Contributions",
+          "amount2016": 1333261,
+          "amount2017": 1696079
+        },
+        {
+          "name": "Contingency",
+          "amount2016": 838617,
+          "amount2017": 250000
+        }
+      ]
+    },
+    {
+      "name": "Other Expenditures",
+      "children": [
+        {
+          "name": "Grant Fund",
+          "amount2016": 2820464,
+          "amount2017": 11540862
+        },
+        {
+          "name": "Community Development Program Costs/Carryforward",
+          "amount2016": 7481442,
+          "amount2017": 4710772
+        },
+        {
+          "name": "Hotel/Motel Tax Fund",
+          "amount2016": 8862343,
+          "amount2017": 9287439
+        },
+        {
+          "name": "Computer Purchase Fund",
+          "amount2016": 721295,
+          "amount2017": 721295
+        },
+        {
+          "name": "Vehicle Purchase Fund",
+          "amount2016": 6492400,
+          "amount2017": 10587030
+        },
+        {
+          "name": "Radio Replacement Fund",
+          "amount2016": 1338000,
+          "amount2017": 1338000
+        },
+        {
+          "name": "Recorder's Court Technology Fund",
+          "amount2016": 100000,
+          "amount2017": 60000
+        }
+      ]
+    }
+  ]
 }
