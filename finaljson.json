@@ -524,9 +524,6 @@
                   "amount2016": "488,700",
                   "amount2017": "550,399",
                   "pct_change": 12.62512789
-                },
-                {
-                  
                 }
               ]
             }
@@ -565,96 +562,6 @@
                   "amount2016": "7,008,750",
                   "amount2017": "7,309,917",
                   "pct_change": 4.297014446
-                },
-                {
-                  "name": "Stormwater Management",
-                  "amount2016": "5,991,535",
-                  "amount2017": "6,471,179",
-                  "pct_change": 8.005360897
-                },
-                {
-                  "name": "Streets Maintenance",
-                  "amount2016": "5,404,305",
-                  "amount2017": "5,313,053",
-                  "pct_change": -1.688505738
-                },
-                {
-                  "name": "Development Services",
-                  "amount2016": "4,411,669",
-                  "amount2017": "4,459,936",
-                  "pct_change": 1.094075734
-                },
-                {
-                  "name": "Environmental Services and Sustainability Division",
-                  "amount2016": "397,296",
-                  "amount2017": "414,455",
-                  "pct_change": 4.318946075
-                },
-                {
-                  "name": "Water and Sewer Director",
-                  "amount2016": "524,834",
-                  "amount2017": "527,054",
-                  "pct_change": 0.422990889
-                },
-                {
-                  "name": "Water and Sewer Planning & Engineering",
-                  "amount2016": "1,400,466",
-                  "amount2017": "1,449,772",
-                  "pct_change": 3.520685258
-                },
-                {
-                  "name": "Water Supply and Treatment",
-                  "amount2016": "6,332,429",
-                  "amount2017": "6,375,404",
-                  "pct_change": 0.678649536
-                },
-                {
-                  "name": "Water Distribution",
-                  "amount2016": "4,623,068",
-                  "amount2017": "5,001,566",
-                  "pct_change": 8.187160561
-                },
-                {
-                  "name": "Water Interdepartmental",
-                  "amount2016": "11,796,265",
-                  "amount2017": "10,579,722",
-                  "pct_change": -10.31295075
-                },
-                {
-                  "name": "Sewer Maintenance",
-                  "amount2016": "3,676,325",
-                  "amount2017": "3,848,165",
-                  "pct_change": 4.6742331
-                },
-                {
-                  "name": "Lift Stations Maintenance",
-                  "amount2016": "4,799,528",
-                  "amount2017": "5,010,897",
-                  "pct_change": 4.403953889
-                },
-                {
-                  "name": "President Street Plant",
-                  "amount2016": "7,277,336",
-                  "amount2017": "6,990,675",
-                  "pct_change": -3.939092547
-                },
-                {
-                  "name": "Regional Plants",
-                  "amount2016": "2,384,929",
-                  "amount2017": "2,289,773",
-                  "pct_change": -3.989888169
-                },
-                {
-                  "name": "Sewer Interdepartmental",
-                  "amount2016": "21,621,247",
-                  "amount2017": "23,444,219",
-                  "pct_change": 8.431391584
-                },
-                {
-                  "name": "I&D Water Plant",
-                  "amount2016": "8,507,686",
-                  "amount2017": "7,619,510",
-                  "pct_change": -10.43968948
                 }
               ]
             }
@@ -677,42 +584,6 @@
                   "amount2016": "8,066,375",
                   "amount2017": "8,009,129",
                   "pct_change": -0.709686817
-                },
-                {
-                  "name": "Refuse Disposal",
-                  "amount2016": "6,207,779",
-                  "amount2017": "6,650,250",
-                  "pct_change": 7.127686085
-                },
-                {
-                  "name": "Street Cleaning",
-                  "amount2016": "2,905,195",
-                  "amount2017": "2,849,227",
-                  "pct_change": -1.926479978
-                },
-                {
-                  "name": "Commercial Refuse",
-                  "amount2016": "1,725,189",
-                  "amount2017": "1,739,255",
-                  "pct_change": 0.815330958
-                },
-                {
-                  "name": "Recycling and Litter Services",
-                  "amount2016": "2,690,141",
-                  "amount2017": "2,505,828",
-                  "pct_change": -6.85142526
-                },
-                {
-                  "name": "Property Maintenance Enforcement",
-                  "amount2016": "2,280,278",
-                  "amount2017": "2,357,542",
-                  "pct_change": 3.388358788
-                },
-                {
-                  "name": "Sanitation Interdepartmental",
-                  "amount2016": "4,105,876",
-                  "amount2017": "5,220,689",
-                  "pct_change": 27.15164803
                 }
               ]
             }
@@ -735,48 +606,6 @@
                   "amount2016": "1,632,533",
                   "amount2017": "1,573,972",
                   "pct_change": -3.587125038
-                },
-                {
-                  "name": "Human Services",
-                  "amount2016": "856,034",
-                  "amount2017": "623,150",
-                  "pct_change": -27.20499419
-                },
-                {
-                  "name": "Cultural Services",
-                  "amount2016": "764,320",
-                  "amount2017": "764,320",
-                  "pct_change": 0
-                },
-                {
-                  "name": "City Dues/Memberships",
-                  "amount2016": "236,406",
-                  "amount2017": "226,846",
-                  "pct_change": -4.043890595
-                },
-                {
-                  "name": "Transfer to Other Funds",
-                  "amount2016": "10,522,220",
-                  "amount2017": "11,271,906",
-                  "pct_change": 7.124789255
-                },
-                {
-                  "name": "Services from Other Funds",
-                  "amount2016": "7,649,840",
-                  "amount2017": "7,621,964",
-                  "pct_change": -0.364399778
-                },
-                {
-                  "name": "Other Expenses/Contributions",
-                  "amount2016": "1,333,261",
-                  "amount2017": "1,696,079",
-                  "pct_change": 27.2128263
-                },
-                {
-                  "name": "Contingency",
-                  "amount2016": "838,617",
-                  "amount2017": "250,000",
-                  "pct_change": -70.18901358
                 }
               ]
             }
@@ -799,36 +628,6 @@
                   "amount2016": "7,481,442",
                   "amount2017": "4,710772",
                   "pct_change": -37.03390336
-                },
-                {
-                  "name": "Hotel/Motel Tax Fund",
-                  "amount2016": "8,862,343",
-                  "amount2017": "9,287,439",
-                  "pct_change": 4.79665479
-                },
-                {
-                  "name": "Computer Purchase Fund",
-                  "amount2016": "721,295",
-                  "amount2017": "721,295",
-                  "pct_change": 0
-                },
-                {
-                  "name": "Vehicle Purchase Fund",
-                  "amount2016": "6,492,400",
-                  "amount2017": "10,587,030",
-                  "pct_change": 63.0680488
-                },
-                {
-                  "name": "Radio Replacement Fund",
-                  "amount2016": "1,338,000",
-                  "amount2017": "1,338,000",
-                  "pct_change": 0
-                },
-                {
-                  "name": "Recorder's Court Technology Fund",
-                  "amount2016": "100,000",
-                  "amount2017": "60,000",
-                  "pct_change": -40
                 }
               ]
             }
