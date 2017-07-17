@@ -1,7 +1,4 @@
 {
-  "name": "Sacramento Budget 2015/16",
-  "children": [
-    {
       "name": "department",
       "children": [
         {
@@ -257,6 +254,4 @@
           ]
         }
       ]
-    }
-  ]
 }
