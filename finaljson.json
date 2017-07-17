@@ -12,14 +12,14 @@
               "children": [
                 {
                   "name": "Mayor and Aldermen",
-                  "amount2016": "786,422",
-                  "amount2015": "793,356",
+                  "amount2016": 786,422,
+                  "amount2015": 793,356,
                   "pct_change": 8.817149062
                 },
                 {
                   "name": "Clerk of Council",
-                  "amount2016": "361,324",
-                  "amount2015": "276,889",
+                  "amount2016": 361,324,
+                  "amount2015": 276,889,
                   "pct_change": -23.36822353
                 }
               ]
@@ -34,14 +34,14 @@
               "children": [
                 {
                   "name": "Leisure Services Bureau Chief",
-                  "amount2016": "590,207",
-                  "amount2017": "783,982",
+                  "amount2016": 590,207,
+                  "amount2017": 783,982,
                   "pct_change": 32.83170142
                 },
                 {
                   "name": "Cultural Affairs",
-                  "amount2016": "750,757",
-                  "amount2017": "771,283",
+                  "amount2016": 750,757,
+                  "amount2017": 771,283,
                   "pct_change": 2.734040442
                 }
               ]
@@ -56,14 +56,14 @@
               "children": [
                 {
                   "name": "Police Chief",
-                  "amount2016": "1,981,333",
-                  "amount2017": "2,144,735",
+                  "amount2016": 1,981,333,
+                  "amount2017": 2,144,735,
                   "pct_change": 8.247074066
                 },
                 {
                   "name": "Patrol and Special Operations Division",
-                  "amount2016": "39,535,291",
-                  "amount2017": "39,585,734",
+                  "amount2016": 39,535,291,
+                  "amount2017": 39,585,734,
                   "pct_change": 0.127589803
                 }
               ]
@@ -78,14 +78,14 @@
               "children": [
                 {
                   "name": "Fire Logistics",
-                  "amount2016": "7,429,902",
-                  "amount2017": "7,388,365",
+                  "amount2016": 7,429,902,
+                  "amount2017": 7,388,365,
                   "pct_change": -0.559051788
                 },
                 {
                   "name": "City-Wide Emergency Planning",
-                  "amount2016": "188,012",
-                  "amount2017": "178,326",
+                  "amount2016": 188,012,
+                  "amount2017": 178,326,
                   "pct_change": -5.151798821
                 }
               ]
@@ -100,8 +100,8 @@
               "children": [
                 {
                   "name": "ACM, Administrative and Community Services",
-                  "amount2016": "349,292",
-                  "amount2017": "191,361",
+                  "amount2016": 349,292,
+                  "amount2017": 191,361,
                   "pct_change": -45.21460554
                 }
               ]
@@ -116,14 +116,14 @@
               "children": [
                 {
                   "name": "Chief",
-                  "amount2016": "376,187",
-                  "amount2017": "321,801",
+                  "amount2016": 376,187,
+                  "amount2017": 321,801,
                   "pct_change": -14.45717157
                 },
                 {
                   "name": "Research and Budget",
-                  "amount2016": "679,161",
-                  "amount2017": "681,572",
+                  "amount2016": 679,161,
+                  "amount2017": 681,572,
                   "pct_change": 0.354996827
                 }
               ]
@@ -138,14 +138,14 @@
               "children": [
                 {
                   "name": "Community and Economic Development Bureau Chief",
-                  "amount2016": "385,801",
-                  "amount2017": "383,757",
+                  "amount2016": 385,801,
+                  "amount2017": 383,757,
                   "pct_change": -0.529806818
                 },
                 {
                   "name": "Community Services",
-                  "amount2016": "345,826",
-                  "amount2017": "580,244",
+                  "amount2016": 345,826,
+                  "amount2017": 580,244,
                   "pct_change": 67.78495544
                 }
               ]
@@ -160,8 +160,8 @@
               "children": [
                 {
                   "name": "ACM, Development and Environmental Services  $",
-                  "amount2016": "338,739",
-                  "amount2017": "353,307",
+                  "amount2016": 338,739,
+                  "amount2017": 353,307,
                   "pct_change": 4.300656257
                 }
               ]
@@ -176,14 +176,14 @@
               "children": [
                 {
                   "name": "Public Works and Water Resources Bureau Chief  $",
-                  "amount2016": "718,467",
-                  "amount2017": "696,140",
+                  "amount2016": 718,467,
+                  "amount2017": 696,140,
                   "pct_change": -3.107588797
                 },
                 {
                   "name": "Traffic Engineering",
-                  "amount2016": "7,008,750",
-                  "amount2017": "7,309,917",
+                  "amount2016": 7,008,750,
+                  "amount2017": 7,309,917,
                   "pct_change": 4.297014446
                 }
               ]
@@ -198,14 +198,14 @@
               "children": [
                 {
                   "name": "Sanitation Bureau Chief  $",
-                  "amount2016": "651,754",
-                  "amount2017": "666,762",
+                  "amount2016": 651,754,
+                  "amount2017": 666,762,
                   "pct_change": 2.302709304
                 },
                 {
                   "name": "Residential Refuse",
-                  "amount2016": "8,066,375",
-                  "amount2017": "8,009,129",
+                  "amount2016": 8,066,375,
+                  "amount2017": 8,009,129,
                   "pct_change": -0.709686817
                 }
               ]
@@ -220,14 +220,14 @@
               "children": [
                 {
                   "name": "Tourism and Promotion",
-                  "amount2016": "2,156,843",
-                  "amount2017": "2,152,409",
+                  "amount2016": 2,156,843,
+                  "amount2017": 2,152,409,
                   "pct_change": -0.205578246
                 },
                 {
                   "name": "Planning and Development",
-                  "amount2016": "1,632,533",
-                  "amount2017": "1,573,972",
+                  "amount2016": 1,632,533,
+                  "amount2017": 1,573,972,
                   "pct_change": -3.587125038
                 }
               ]
@@ -242,14 +242,14 @@
               "children": [
                 {
                   "name": "Grant Fund",
-                  "amount2016": "2,820,464",
-                  "amount2017": "11,540,862",
+                  "amount2016": 2,820,464,
+                  "amount2017": 11,540,862,
                   "pct_change": 309.183099
                 },
                 {
                   "name": "Community Development Program Costs/Carryforward",
-                  "amount2016": "7,481,442",
-                  "amount2017": "4,710772",
+                  "amount2016": 7,481,442,
+                  "amount2017": 4,710772,
                   "pct_change": -37.03390336
                 }
               ]
